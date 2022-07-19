@@ -1,3 +1,7 @@
+## NOTE: This is a POC repo. The repo for the live version of [designsystem.backbase.com](https://designsystem.backbase.com) is hosted elsewhere.
+
+---
+
 # DesignSystemOnline
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
